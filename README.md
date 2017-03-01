@@ -22,6 +22,32 @@ Though submissions are graded through Gradescope, you are encouraged to fork thi
 ## Requirements ##
 You **must** include all features listed under the "Hangman Game View" and "Finished Game States / Start New Game" sections. 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###  Hangman Game View ###
 * A UILabel that displays the "_"s corresponding to each word in the provided puzzle string
 * A UILabel that displays the incorrect guesses thus far
@@ -41,6 +67,32 @@ You **must** include all features listed under the "Hangman Game View" and "Fini
 * A smart way for the user to guess letters (since a TextField for letter entry isn't ideal UX).
 * Customized design, including, but not limited to, custom images for the Hangman states
 * Anything else that you think will impress us or you think would be fun to implement!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Grading and Submission ##
 
